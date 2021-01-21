@@ -9,15 +9,21 @@
 <body>
 
 <div class="container-fluid">
-  <div class="row">
-    <div class="col-xs-3" style="background-color:#90EE90;"><h4><b>Benefits</h4></b>
-    <ul>
-  <li>Set Goals</li>
-  <li>Received customized notification</li>
-  <li>Get tips from experts and coaches</li>
-</ul>  </div>
-    <div class="col-xs-2" style="background-color:lavenderblush;"><h4><b>Login</b></h4></div>
-  </div>
-</div>
+    <div class="row">
+        <div class="col-md-9" style="  background-color: rgb(204, 221, 203);
+">
+            <h4>Benefits</h4>
+            <p></p>
+            <ul>
+                <li>Set Goals</li>
+                <li>Receive customize notifications</li>
+                <li>Get tips from experts and coaches</li>
+            </ul>
+        </div>
+        <div class="col-md-3" style="background-color: rgb(221,204,222);">
+            <h4>Login</h4>
+        </div>
+    </div>
+</div></div>
 </body>
 </html>
